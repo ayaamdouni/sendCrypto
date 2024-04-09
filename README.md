@@ -1,5 +1,8 @@
 # Getting Started with Send Crypto App
 
+The project demo is available in this link:
+https://send-crypto-xwe4.vercel.app/
+
 This project aims to send crypto across the world by providing the address of the receiver and the amount to be sent
 
 ## Available Scripts
