@@ -1,7 +1,6 @@
 import {SiEthereum} from "react-icons/si";
 import {BsInfoCircle} from "react-icons/bs";
 import { useState, useEffect} from "react";
-import { ethers } from "ethers";
 import {Loader} from './';
   
 
