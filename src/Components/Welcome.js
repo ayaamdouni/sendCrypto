@@ -2,7 +2,7 @@ import {SiEthereum} from "react-icons/si";
 import {BsInfoCircle} from "react-icons/bs";
 import { useState, useEffect} from "react";
 import {Loader} from './';
-  
+import {ethers} from 'ethers';  
 
 const Welcome = () => {
     const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
